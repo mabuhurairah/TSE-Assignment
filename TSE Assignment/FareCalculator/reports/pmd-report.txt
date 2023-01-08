@@ -1,0 +1,476 @@
+src/main/java/FareCalculator/FareCalculator.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/FareCalculator/FareCalculator.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/main/java/FareCalculator/FareCalculator.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/FareCalculator/FareCalculator.java:22:	CommentRequired:	CommentRequired: Class comments are required
+src/main/java/FareCalculator/FareCalculator.java:22:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The class 'FareCalculator' has a Modified Cyclomatic Complexity of 14 (Highest = 27).
+src/main/java/FareCalculator/FareCalculator.java:22:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The class 'FareCalculator' has a Modified Cyclomatic Complexity of 14 (Highest = 27).
+src/main/java/FareCalculator/FareCalculator.java:22:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The class 'FareCalculator' has a Standard Cyclomatic Complexity of 14 (Highest = 27).
+src/main/java/FareCalculator/FareCalculator.java:22:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The class 'FareCalculator' has a Standard Cyclomatic Complexity of 14 (Highest = 27).
+src/main/java/FareCalculator/FareCalculator.java:22:	TooManyFields:	TooManyFields: Too many fields
+src/main/java/FareCalculator/FareCalculator.java:22:	TooManyFields:	TooManyFields: Too many fields
+src/main/java/FareCalculator/FareCalculator.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:24:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:24:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:24:	ImmutableField:	ImmutableField: Private field 'frame' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:24:	ImmutableField:	ImmutableField: Private field 'frame' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:24:	SingularField:	SingularField: Perhaps 'frame' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:24:	SingularField:	SingularField: Perhaps 'frame' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:25:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:25:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:25:	ImmutableField:	ImmutableField: Private field 'panel' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:25:	ImmutableField:	ImmutableField: Private field 'panel' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:27:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:27:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:27:	ImmutableField:	ImmutableField: Private field 'menuBar' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:27:	ImmutableField:	ImmutableField: Private field 'menuBar' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:27:	SingularField:	SingularField: Perhaps 'menuBar' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:27:	SingularField:	SingularField: Perhaps 'menuBar' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:28:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:28:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:28:	ImmutableField:	ImmutableField: Private field 'menu' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:28:	ImmutableField:	ImmutableField: Private field 'menu' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:28:	SingularField:	SingularField: Perhaps 'menu' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:28:	SingularField:	SingularField: Perhaps 'menu' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:29:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:29:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:29:	ImmutableField:	ImmutableField: Private field 'red' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:29:	ImmutableField:	ImmutableField: Private field 'red' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:29:	SingularField:	SingularField: Perhaps 'red' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:29:	SingularField:	SingularField: Perhaps 'red' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:30:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:30:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:30:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:30:	ImmutableField:	ImmutableField: Private field 'green' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:30:	ImmutableField:	ImmutableField: Private field 'green' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:30:	SingularField:	SingularField: Perhaps 'green' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:30:	SingularField:	SingularField: Perhaps 'green' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:31:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:31:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:31:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:31:	ImmutableField:	ImmutableField: Private field 'yellow' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:31:	ImmutableField:	ImmutableField: Private field 'yellow' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:31:	SingularField:	SingularField: Perhaps 'yellow' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:31:	SingularField:	SingularField: Perhaps 'yellow' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:33:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:33:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:33:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:33:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:33:	ImmutableField:	ImmutableField: Private field 'departLabel' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:33:	ImmutableField:	ImmutableField: Private field 'departLabel' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:33:	SingularField:	SingularField: Perhaps 'departLabel' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:33:	SingularField:	SingularField: Perhaps 'departLabel' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:34:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:34:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:34:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:34:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:34:	ImmutableField:	ImmutableField: Private field 'departCombo' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:34:	ImmutableField:	ImmutableField: Private field 'departCombo' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:37:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:37:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:37:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:37:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:37:	FieldNamingConventions:	FieldNamingConventions: The field name 'Class' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/FareCalculator/FareCalculator.java:37:	FieldNamingConventions:	FieldNamingConventions: The field name 'Class' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/FareCalculator/FareCalculator.java:37:	ImmutableField:	ImmutableField: Private field 'Class' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:37:	ImmutableField:	ImmutableField: Private field 'Class' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:37:	SingularField:	SingularField: Perhaps 'Class' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:37:	SingularField:	SingularField: Perhaps 'Class' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:37:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Class' starts with uppercase character.
+src/main/java/FareCalculator/FareCalculator.java:37:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Class' starts with uppercase character.
+src/main/java/FareCalculator/FareCalculator.java:38:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:38:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:38:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:38:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:38:	ImmutableField:	ImmutableField: Private field 'economy' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:38:	ImmutableField:	ImmutableField: Private field 'economy' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:39:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:39:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:39:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:39:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:39:	FieldNamingConventions:	FieldNamingConventions: The field name 'AC' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/FareCalculator/FareCalculator.java:39:	FieldNamingConventions:	FieldNamingConventions: The field name 'AC' doesn't match '[a-z][a-zA-Z0-9]*'
+src/main/java/FareCalculator/FareCalculator.java:39:	ImmutableField:	ImmutableField: Private field 'AC' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:39:	ImmutableField:	ImmutableField: Private field 'AC' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:39:	ShortVariable:	ShortVariable: Avoid variables with short names like AC
+src/main/java/FareCalculator/FareCalculator.java:39:	ShortVariable:	ShortVariable: Avoid variables with short names like AC
+src/main/java/FareCalculator/FareCalculator.java:39:	SuspiciousConstantFieldName:	SuspiciousConstantFieldName: The field name indicates a constant but its modifiers do not
+src/main/java/FareCalculator/FareCalculator.java:39:	SuspiciousConstantFieldName:	SuspiciousConstantFieldName: The field name indicates a constant but its modifiers do not
+src/main/java/FareCalculator/FareCalculator.java:39:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'AC' starts with uppercase character.
+src/main/java/FareCalculator/FareCalculator.java:39:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'AC' starts with uppercase character.
+src/main/java/FareCalculator/FareCalculator.java:40:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:40:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:40:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:40:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:40:	ImmutableField:	ImmutableField: Private field 'bGroup' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:40:	ImmutableField:	ImmutableField: Private field 'bGroup' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:40:	SingularField:	SingularField: Perhaps 'bGroup' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:40:	SingularField:	SingularField: Perhaps 'bGroup' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:42:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:42:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:42:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:42:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:42:	ImmutableField:	ImmutableField: Private field 'arrLabel' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:42:	ImmutableField:	ImmutableField: Private field 'arrLabel' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:42:	SingularField:	SingularField: Perhaps 'arrLabel' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:42:	SingularField:	SingularField: Perhaps 'arrLabel' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:43:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:43:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:43:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:43:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:43:	ImmutableField:	ImmutableField: Private field 'arrCombo' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:43:	ImmutableField:	ImmutableField: Private field 'arrCombo' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:45:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:45:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:45:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:45:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:45:	ImmutableField:	ImmutableField: Private field 'seatLabel' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:45:	ImmutableField:	ImmutableField: Private field 'seatLabel' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:45:	SingularField:	SingularField: Perhaps 'seatLabel' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:45:	SingularField:	SingularField: Perhaps 'seatLabel' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:46:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:46:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:46:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:46:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:46:	ImmutableField:	ImmutableField: Private field 'seatText' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:46:	ImmutableField:	ImmutableField: Private field 'seatText' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:48:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:48:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:48:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:48:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:48:	ImmutableField:	ImmutableField: Private field 'computeFare' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:48:	ImmutableField:	ImmutableField: Private field 'computeFare' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:48:	SingularField:	SingularField: Perhaps 'computeFare' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:48:	SingularField:	SingularField: Perhaps 'computeFare' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:50:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:50:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:50:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:50:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:50:	ImmutableField:	ImmutableField: Private field 'totalFare' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:50:	ImmutableField:	ImmutableField: Private field 'totalFare' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:50:	SingularField:	SingularField: Perhaps 'totalFare' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:50:	SingularField:	SingularField: Perhaps 'totalFare' could be replaced by a local variable.
+src/main/java/FareCalculator/FareCalculator.java:51:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:51:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/FareCalculator/FareCalculator.java:51:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:51:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/FareCalculator/FareCalculator.java:51:	ImmutableField:	ImmutableField: Private field 'totalFareText' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:51:	ImmutableField:	ImmutableField: Private field 'totalFareText' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/FareCalculator/FareCalculator.java:54:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/FareCalculator/FareCalculator.java:54:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/FareCalculator/FareCalculator.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/FareCalculator/FareCalculator.java:54:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/FareCalculator/FareCalculator.java:60:	CognitiveComplexity:	CognitiveComplexity: The constructor 'FareCalculator()' has a cognitive complexity of 65, current threshold is 15
+src/main/java/FareCalculator/FareCalculator.java:60:	CognitiveComplexity:	CognitiveComplexity: The constructor 'FareCalculator()' has a cognitive complexity of 65, current threshold is 15
+src/main/java/FareCalculator/FareCalculator.java:60:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/FareCalculator/FareCalculator.java:60:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/FareCalculator/FareCalculator.java:60:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+src/main/java/FareCalculator/FareCalculator.java:60:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+src/main/java/FareCalculator/FareCalculator.java:60:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The constructor 'FareCalculator' has a Modified Cyclomatic Complexity of 27.
+src/main/java/FareCalculator/FareCalculator.java:60:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The constructor 'FareCalculator' has a Modified Cyclomatic Complexity of 27.
+src/main/java/FareCalculator/FareCalculator.java:60:	NcssCount:	NcssCount: The constructor 'FareCalculator()' has a NCSS line count of 66.
+src/main/java/FareCalculator/FareCalculator.java:60:	NcssCount:	NcssCount: The constructor 'FareCalculator()' has a NCSS line count of 66.
+src/main/java/FareCalculator/FareCalculator.java:60:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The constructor 'FareCalculator' has a Standard Cyclomatic Complexity of 27.
+src/main/java/FareCalculator/FareCalculator.java:60:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The constructor 'FareCalculator' has a Standard Cyclomatic Complexity of 27.
+src/main/java/FareCalculator/FareCalculator.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'panel1' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:65:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'panel1' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'panel2' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'panel2' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'panel3' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'panel3' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:80:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'grdLayout' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:80:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'grdLayout' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:84:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/main/java/FareCalculator/FareCalculator.java:84:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/main/java/FareCalculator/FareCalculator.java:84:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/main/java/FareCalculator/FareCalculator.java:84:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/main/java/FareCalculator/FareCalculator.java:94:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/main/java/FareCalculator/FareCalculator.java:94:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/main/java/FareCalculator/FareCalculator.java:94:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/main/java/FareCalculator/FareCalculator.java:94:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/main/java/FareCalculator/FareCalculator.java:104:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/main/java/FareCalculator/FareCalculator.java:104:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/main/java/FareCalculator/FareCalculator.java:104:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/main/java/FareCalculator/FareCalculator.java:104:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/main/java/FareCalculator/FareCalculator.java:138:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+src/main/java/FareCalculator/FareCalculator.java:138:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+src/main/java/FareCalculator/FareCalculator.java:138:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/main/java/FareCalculator/FareCalculator.java:138:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'e' is not assigned and could be declared final
+src/main/java/FareCalculator/FareCalculator.java:138:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The method 'actionPerformed' has a Modified Cyclomatic Complexity of 23.
+src/main/java/FareCalculator/FareCalculator.java:138:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The method 'actionPerformed' has a Modified Cyclomatic Complexity of 23.
+src/main/java/FareCalculator/FareCalculator.java:138:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/main/java/FareCalculator/FareCalculator.java:138:	ShortVariable:	ShortVariable: Avoid variables with short names like e
+src/main/java/FareCalculator/FareCalculator.java:138:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The method 'actionPerformed' has a Standard Cyclomatic Complexity of 23.
+src/main/java/FareCalculator/FareCalculator.java:138:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The method 'actionPerformed' has a Standard Cyclomatic Complexity of 23.
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'151').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'151').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'151').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'151').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'151').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'151').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'151').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'151').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'164').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'164').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'164').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'164').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'164').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'164').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'164').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'164').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'177').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'177').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'177').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'177').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'177').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'177').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'196').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'196').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'196').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'196').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'196').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'196').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'209').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'209').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'209').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'209').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'209').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'209').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'222').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'222').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'222').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'222').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'222').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'eco' (lines '139'-'222').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '139'-'276').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '139'-'276').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '139'-'276').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '139'-'276').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '139'-'276').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '139'-'276').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '139'-'276').
+src/main/java/FareCalculator/FareCalculator.java:139:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '139'-'276').
+src/main/java/FareCalculator/FareCalculator.java:139:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'eco' is never used (overwritten on lines 151, 164, 177, 196, 209 and 222)
+src/main/java/FareCalculator/FareCalculator.java:139:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'eco' is never used (overwritten on lines 151, 164, 177, 196, 209 and 222)
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'152').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'152').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'152').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'152').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'152').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'152').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'152').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'152').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'165').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'165').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'165').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'165').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'165').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'165').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'165').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'165').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'178').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'178').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'178').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'178').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'178').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'178').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'197').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'197').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'197').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'197').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'197').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'197').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'210').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'210').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'210').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'210').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'210').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'210').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'223').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'223').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'223').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'223').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'223').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'acClass' (lines '140'-'223').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '140'-'276').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '140'-'276').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '140'-'276').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '140'-'276').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '140'-'276').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '140'-'276').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '140'-'276').
+src/main/java/FareCalculator/FareCalculator.java:140:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '140'-'276').
+src/main/java/FareCalculator/FareCalculator.java:140:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'acClass' is never used (overwritten on lines 152, 165, 178, 197, 210 and 223)
+src/main/java/FareCalculator/FareCalculator.java:140:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'acClass' is never used (overwritten on lines 152, 165, 178, 197, 210 and 223)
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'seatNum' (lines '141'-'148').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'seatNum' (lines '141'-'148').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'seatNum' (lines '141'-'148').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'seatNum' (lines '141'-'148').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'seatNum' (lines '141'-'148').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'seatNum' (lines '141'-'148').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'seatNum' (lines '141'-'148').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'seatNum' (lines '141'-'148').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '141'-'276').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '141'-'276').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '141'-'276').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '141'-'276').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '141'-'276').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '141'-'276').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '141'-'276').
+src/main/java/FareCalculator/FareCalculator.java:141:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '141'-'276').
+src/main/java/FareCalculator/FareCalculator.java:141:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'seatNum' is never used (overwritten on line 148)
+src/main/java/FareCalculator/FareCalculator.java:141:	UnusedAssignment:	UnusedAssignment: The initializer for variable 'seatNum' is never used (overwritten on line 148)
+src/main/java/FareCalculator/FareCalculator.java:144:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/FareCalculator/FareCalculator.java:144:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/FareCalculator/FareCalculator.java:144:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/FareCalculator/FareCalculator.java:144:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/FareCalculator/FareCalculator.java:145:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "missing input. Try Again" appears 7 times in this file; the first occurrence is on line 145
+src/main/java/FareCalculator/FareCalculator.java:145:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "missing input. Try Again" appears 7 times in this file; the first occurrence is on line 145
+src/main/java/FareCalculator/FareCalculator.java:148:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '148'-'276').
+src/main/java/FareCalculator/FareCalculator.java:148:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '148'-'276').
+src/main/java/FareCalculator/FareCalculator.java:148:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '148'-'276').
+src/main/java/FareCalculator/FareCalculator.java:148:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '148'-'276').
+src/main/java/FareCalculator/FareCalculator.java:148:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '148'-'276').
+src/main/java/FareCalculator/FareCalculator.java:148:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '148'-'276').
+src/main/java/FareCalculator/FareCalculator.java:148:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '148'-'276').
+src/main/java/FareCalculator/FareCalculator.java:148:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'seatNum' (lines '148'-'276').
+src/main/java/FareCalculator/FareCalculator.java:148:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/FareCalculator/FareCalculator.java:148:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/FareCalculator/FareCalculator.java:149:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:149:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:149:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:149:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:150:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:150:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:150:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:150:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:151:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '151'-'276').
+src/main/java/FareCalculator/FareCalculator.java:151:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '151'-'276').
+src/main/java/FareCalculator/FareCalculator.java:151:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '151'-'276').
+src/main/java/FareCalculator/FareCalculator.java:151:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '151'-'276').
+src/main/java/FareCalculator/FareCalculator.java:151:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '151'-'276').
+src/main/java/FareCalculator/FareCalculator.java:151:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '151'-'276').
+src/main/java/FareCalculator/FareCalculator.java:151:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '151'-'276').
+src/main/java/FareCalculator/FareCalculator.java:151:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '151'-'276').
+src/main/java/FareCalculator/FareCalculator.java:152:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '152'-'276').
+src/main/java/FareCalculator/FareCalculator.java:152:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '152'-'276').
+src/main/java/FareCalculator/FareCalculator.java:152:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '152'-'276').
+src/main/java/FareCalculator/FareCalculator.java:152:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '152'-'276').
+src/main/java/FareCalculator/FareCalculator.java:152:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '152'-'276').
+src/main/java/FareCalculator/FareCalculator.java:152:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '152'-'276').
+src/main/java/FareCalculator/FareCalculator.java:152:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '152'-'276').
+src/main/java/FareCalculator/FareCalculator.java:152:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '152'-'276').
+src/main/java/FareCalculator/FareCalculator.java:163:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:163:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:163:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:163:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:164:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '164'-'276').
+src/main/java/FareCalculator/FareCalculator.java:164:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '164'-'276').
+src/main/java/FareCalculator/FareCalculator.java:164:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '164'-'276').
+src/main/java/FareCalculator/FareCalculator.java:164:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '164'-'276').
+src/main/java/FareCalculator/FareCalculator.java:164:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '164'-'276').
+src/main/java/FareCalculator/FareCalculator.java:164:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '164'-'276').
+src/main/java/FareCalculator/FareCalculator.java:164:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '164'-'276').
+src/main/java/FareCalculator/FareCalculator.java:164:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '164'-'276').
+src/main/java/FareCalculator/FareCalculator.java:165:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '165'-'276').
+src/main/java/FareCalculator/FareCalculator.java:165:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '165'-'276').
+src/main/java/FareCalculator/FareCalculator.java:165:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '165'-'276').
+src/main/java/FareCalculator/FareCalculator.java:165:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '165'-'276').
+src/main/java/FareCalculator/FareCalculator.java:165:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '165'-'276').
+src/main/java/FareCalculator/FareCalculator.java:165:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '165'-'276').
+src/main/java/FareCalculator/FareCalculator.java:165:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '165'-'276').
+src/main/java/FareCalculator/FareCalculator.java:165:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '165'-'276').
+src/main/java/FareCalculator/FareCalculator.java:176:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:176:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:176:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:176:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:177:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '177'-'276').
+src/main/java/FareCalculator/FareCalculator.java:177:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '177'-'276').
+src/main/java/FareCalculator/FareCalculator.java:177:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '177'-'276').
+src/main/java/FareCalculator/FareCalculator.java:177:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '177'-'276').
+src/main/java/FareCalculator/FareCalculator.java:177:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '177'-'276').
+src/main/java/FareCalculator/FareCalculator.java:177:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '177'-'276').
+src/main/java/FareCalculator/FareCalculator.java:178:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '178'-'276').
+src/main/java/FareCalculator/FareCalculator.java:178:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '178'-'276').
+src/main/java/FareCalculator/FareCalculator.java:178:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '178'-'276').
+src/main/java/FareCalculator/FareCalculator.java:178:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '178'-'276').
+src/main/java/FareCalculator/FareCalculator.java:178:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '178'-'276').
+src/main/java/FareCalculator/FareCalculator.java:178:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '178'-'276').
+src/main/java/FareCalculator/FareCalculator.java:189:	AvoidFileStream:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/main/java/FareCalculator/FareCalculator.java:189:	AvoidFileStream:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/main/java/FareCalculator/FareCalculator.java:189:	CloseResource:	CloseResource: Ensure that resources like this FileWriter object are closed after use
+src/main/java/FareCalculator/FareCalculator.java:189:	CloseResource:	CloseResource: Ensure that resources like this FileWriter object are closed after use
+src/main/java/FareCalculator/FareCalculator.java:189:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'file' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:189:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'file' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:194:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:194:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:194:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:194:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:195:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:195:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:195:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:195:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:196:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '196'-'276').
+src/main/java/FareCalculator/FareCalculator.java:196:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '196'-'276').
+src/main/java/FareCalculator/FareCalculator.java:196:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '196'-'276').
+src/main/java/FareCalculator/FareCalculator.java:196:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '196'-'276').
+src/main/java/FareCalculator/FareCalculator.java:196:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '196'-'276').
+src/main/java/FareCalculator/FareCalculator.java:196:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '196'-'276').
+src/main/java/FareCalculator/FareCalculator.java:197:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '197'-'276').
+src/main/java/FareCalculator/FareCalculator.java:197:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '197'-'276').
+src/main/java/FareCalculator/FareCalculator.java:197:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '197'-'276').
+src/main/java/FareCalculator/FareCalculator.java:197:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '197'-'276').
+src/main/java/FareCalculator/FareCalculator.java:197:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '197'-'276').
+src/main/java/FareCalculator/FareCalculator.java:197:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '197'-'276').
+src/main/java/FareCalculator/FareCalculator.java:208:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:208:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:208:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:208:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:209:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '209'-'276').
+src/main/java/FareCalculator/FareCalculator.java:209:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '209'-'276').
+src/main/java/FareCalculator/FareCalculator.java:209:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '209'-'276').
+src/main/java/FareCalculator/FareCalculator.java:209:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '209'-'276').
+src/main/java/FareCalculator/FareCalculator.java:209:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '209'-'276').
+src/main/java/FareCalculator/FareCalculator.java:209:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '209'-'276').
+src/main/java/FareCalculator/FareCalculator.java:210:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '210'-'276').
+src/main/java/FareCalculator/FareCalculator.java:210:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '210'-'276').
+src/main/java/FareCalculator/FareCalculator.java:210:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '210'-'276').
+src/main/java/FareCalculator/FareCalculator.java:210:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '210'-'276').
+src/main/java/FareCalculator/FareCalculator.java:210:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '210'-'276').
+src/main/java/FareCalculator/FareCalculator.java:210:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '210'-'276').
+src/main/java/FareCalculator/FareCalculator.java:221:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:221:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/FareCalculator/FareCalculator.java:221:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:221:	CompareObjectsWithEquals:	CompareObjectsWithEquals: Use equals() to compare object references.
+src/main/java/FareCalculator/FareCalculator.java:222:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '222'-'276').
+src/main/java/FareCalculator/FareCalculator.java:222:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '222'-'276').
+src/main/java/FareCalculator/FareCalculator.java:222:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '222'-'276').
+src/main/java/FareCalculator/FareCalculator.java:222:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '222'-'276').
+src/main/java/FareCalculator/FareCalculator.java:222:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '222'-'276').
+src/main/java/FareCalculator/FareCalculator.java:222:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'eco' (lines '222'-'276').
+src/main/java/FareCalculator/FareCalculator.java:223:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '223'-'276').
+src/main/java/FareCalculator/FareCalculator.java:223:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '223'-'276').
+src/main/java/FareCalculator/FareCalculator.java:223:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '223'-'276').
+src/main/java/FareCalculator/FareCalculator.java:223:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '223'-'276').
+src/main/java/FareCalculator/FareCalculator.java:223:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '223'-'276').
+src/main/java/FareCalculator/FareCalculator.java:223:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DU'-anomaly for variable 'acClass' (lines '223'-'276').
+src/main/java/FareCalculator/FareCalculator.java:234:	AvoidFileStream:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/main/java/FareCalculator/FareCalculator.java:234:	AvoidFileStream:	AvoidFileStream: Avoid instantiating FileInputStream, FileOutputStream, FileReader, or FileWriter
+src/main/java/FareCalculator/FareCalculator.java:234:	CloseResource:	CloseResource: Ensure that resources like this FileWriter object are closed after use
+src/main/java/FareCalculator/FareCalculator.java:234:	CloseResource:	CloseResource: Ensure that resources like this FileWriter object are closed after use
+src/main/java/FareCalculator/FareCalculator.java:234:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'file' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:234:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'file' could be declared final
+src/main/java/FareCalculator/FareCalculator.java:239:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/FareCalculator/FareCalculator.java:239:	AvoidCatchingGenericException:	AvoidCatchingGenericException: Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/main/java/FareCalculator/FareCalculator.java:240:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/FareCalculator/FareCalculator.java:240:	SystemPrintln:	SystemPrintln: System.out.println is used
